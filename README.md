@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilasNE
 - 👀 I’m interested in programming and engineerung
-- 🌱 I’m currently learning Java and Arduino basics
+- 🌱 I'm currently learning c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me silas.engel06@tutanota.com
 - 😄 Pronouns: ...
